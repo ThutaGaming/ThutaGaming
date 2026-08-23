@@ -20,6 +20,32 @@
 
 ---
 
+### 🕒 Local Time
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/output/clock-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/output/clock-light.svg" />
+    <img alt="Current date and time in Yangon, Myanmar" src="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/output/clock-dark.svg" />
+  </picture>
+</p>
+
+---
+
+### 🌍 Location
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/worldmap-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/worldmap-light.svg" />
+    <img alt="World map with Myanmar highlighted" width="600" src="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/worldmap-dark.svg" />
+  </picture>
+  <br/>
+  <sub>Map data © <a href="https://github.com/flekschas/simple-world-map">flekschas/simple-world-map</a> (CC BY-SA 3.0)</sub>
+</p>
+
+---
+
 ### 🎮 About Me
 
 - 🖤 Building games with **Unity** & **C#**
