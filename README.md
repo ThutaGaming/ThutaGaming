@@ -32,7 +32,11 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,git,github,vscode,windows&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/tech-stack-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/tech-stack-light.svg" />
+    <img alt="Tech stack: Unity, C#, .NET, Git, GitHub, VS Code, Windows" src="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/tech-stack-dark.svg" />
+  </picture>
 </p>
 
 ---
