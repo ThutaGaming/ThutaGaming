@@ -29,6 +29,27 @@
 
 ---
 
+```
+Unhandled Exception: System.NullReferenceException
+  Object reference not set to an instance of a 'Social Life'.
+     at ThutaSann.LiveLife() in C:\Users\ThutaSann\life.cs:line 404
+     at Unity.Application.Main() 
+
+  > 404: Social Life Not Found. Retrying with coffee.exe ☕
+```
+
+---
+
+### 🎮 Now Building
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Compiling%20a%20new%20game-DC143C?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bugs%20Fixed%20Today-9999%2B-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coffee%20Level-Critical-1E5AA8?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
