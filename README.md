@@ -80,19 +80,15 @@ Unhandled Exception: System.NullReferenceException
   <img src="https://streak-stats.demolab.com/?user=ThutaGaming&hide_border=true&background=0B0B0C&ring=FF4500&fire=FF4500&currStreakLabel=DC143C&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=1E5AA8"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThutaGaming&bg_color=0B0B0C&color=FF6B1A&line=FF4500&point=1E5AA8&area=true&area_color=DC143C&title_color=FFFFFF&hide_border=true" />
-</p>
-
 ---
 
-### 🏆 Achievements
+### 🎮 Character Stats
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/achievements-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/achievements-light.svg" />
-    <img alt="Achievements: Bug Squasher, Streak Master, Night Owl, Shipped It, Level Up" src="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/achievements-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/skills-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/skills-light.svg" />
+    <img alt="Skill levels: Unity, C#, Debugging, Git, Patience, Coffee Dependency" src="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/skills-dark.svg" />
   </picture>
 </p>
 
