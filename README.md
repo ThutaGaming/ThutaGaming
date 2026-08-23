@@ -40,11 +40,6 @@
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThutaGaming&show_icons=true&hide_border=true&title_color=FF0000&icon_color=8B0000&text_color=FFFFFF&bg_color=0D0000"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThutaGaming&layout=compact&hide_border=true&title_color=FF0000&text_color=FFFFFF&bg_color=0D0000"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=ThutaGaming&hide_border=true&background=0D0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B0000"/>
 </p>
 
