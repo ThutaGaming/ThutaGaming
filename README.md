@@ -37,13 +37,13 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🎯 Contribution Shooter
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/output/github-contribution-grid-snake.svg" />
-    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/output/shooter-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/output/shooter-light.svg" />
+    <img alt="A spaceship shooting down my GitHub contribution graph" src="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/output/shooter-dark.svg" />
   </picture>
 </p>
 
