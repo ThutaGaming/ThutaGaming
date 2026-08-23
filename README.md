@@ -29,6 +29,14 @@
 
 ---
 
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,git,github,vscode,windows&theme=dark" />
+</p>
+
+---
+
 ### 📊 Stats
 
 <p align="center">
