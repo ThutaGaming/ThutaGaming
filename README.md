@@ -53,13 +53,11 @@ Unhandled Exception: System.NullReferenceException
 ### 🕹️ Favorite Games
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Resident%20Evil-0B0B0C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-God%20of%20War-DC143C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elden%20Ring-FF4500?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Dark%20Souls-0B0B0C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-The%20Last%20of%20Us-1E5AA8?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cyberpunk%202077-FF6B1A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Red%20Dead%20Redemption%202-DC143C?style=for-the-badge&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/games-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/games-light.svg" />
+    <img alt="Favorite games: Resident Evil, God of War, Elden Ring, Dark Souls, The Last of Us, Cyberpunk 2077, Red Dead 2" src="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/games-dark.svg" />
+  </picture>
 </p>
 
 ---
