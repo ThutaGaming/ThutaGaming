@@ -54,9 +54,9 @@ Unhandled Exception: System.NullReferenceException
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/games-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/games-light.svg" />
-    <img alt="Favorite games: Resident Evil, God of War, Elden Ring, Dark Souls, The Last of Us, Cyberpunk 2077, Red Dead 2" src="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/games-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/games-dark-v2.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/games-light-v2.svg" />
+    <img alt="Favorite games: Resident Evil, God of War, Elden Ring, Dark Souls, The Last of Us, Cyberpunk 2077, Red Dead 2" src="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/games-dark-v2.svg" />
   </picture>
 </p>
 

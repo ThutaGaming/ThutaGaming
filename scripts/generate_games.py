@@ -52,10 +52,10 @@ def make_svg(text_color):
 out_dir = os.path.join(os.path.dirname(__file__), "..", "assets")
 os.makedirs(out_dir, exist_ok=True)
 
-with open(os.path.join(out_dir, "games-dark.svg"), "w", encoding="utf-8") as f:
+with open(os.path.join(out_dir, "games-dark-v2.svg"), "w", encoding="utf-8") as f:
     f.write(make_svg(text_color="#ffffff"))
 
-with open(os.path.join(out_dir, "games-light.svg"), "w", encoding="utf-8") as f:
+with open(os.path.join(out_dir, "games-light-v2.svg"), "w", encoding="utf-8") as f:
     f.write(make_svg(text_color="#ffffff"))
 
 print("favorite games svgs generated")
