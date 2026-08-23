@@ -33,9 +33,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/tech-stack-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/tech-stack-light.svg?v=2" />
-    <img alt="Tech stack: Unity, C#, .NET, Git, GitHub, VS Code, Windows" src="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/tech-stack-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/tech-stack-dark-v2.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/tech-stack-light-v2.svg" />
+    <img alt="Tech stack: Unity, C#, .NET, Git, GitHub, VS Code, Windows" src="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/master/assets/tech-stack-dark-v2.svg" />
   </picture>
 </p>
 
