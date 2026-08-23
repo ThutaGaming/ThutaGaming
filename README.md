@@ -37,6 +37,18 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ThutaGaming/ThutaGaming/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ### 📊 Stats
 
 <p align="center">
