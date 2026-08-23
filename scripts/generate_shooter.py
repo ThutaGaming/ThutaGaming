@@ -123,25 +123,25 @@ def make_svg(bg, empty_color, levels, ship_fill, laser_color):
 
 
 dark_svg = make_svg(
-    bg="#0D0000",
-    empty_color="#1a0000",
-    levels=["#3f0a0a", "#6e0000", "#a30000", "#ff0000"],
-    ship_fill="#ff3b3b",
-    laser_color="#ff5555",
+    bg="#0A0F1C",
+    empty_color="#14304D",
+    levels=["#1B4272", "#2C5282", "#D4AF37", "#FFD700"],
+    ship_fill="#FFD700",
+    laser_color="#D4AF37",
 )
 
 light_svg = make_svg(
     bg="#ffffff",
-    empty_color="#f2dede",
-    levels=["#f4a3a3", "#e05656", "#b30000", "#7a0000"],
-    ship_fill="#8b0000",
-    laser_color="#c40000",
+    empty_color="#e8edf3",
+    levels=["#a9c2dc", "#5b83ab", "#B8860B", "#8B6914"],
+    ship_fill="#14304D",
+    laser_color="#B8860B",
 )
 
 os.makedirs("dist", exist_ok=True)
-with open("dist/shooter-dark.svg", "w", encoding="utf-8") as f:
+with open("dist/shooter-dark-v2.svg", "w", encoding="utf-8") as f:
     f.write(dark_svg)
-with open("dist/shooter-light.svg", "w", encoding="utf-8") as f:
+with open("dist/shooter-light-v2.svg", "w", encoding="utf-8") as f:
     f.write(light_svg)
 
 print("shooter svgs generated")
