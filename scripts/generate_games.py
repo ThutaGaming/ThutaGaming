@@ -15,10 +15,9 @@ CARD_H = 100
 GAP = 14
 MARGIN_X = 22
 MARGIN_Y = 22
-BOUNCE = 8
 
 width = MARGIN_X * 2 + len(GAMES) * CARD_W + GAP * (len(GAMES) - 1)
-height = MARGIN_Y * 2 + CARD_H + BOUNCE
+height = MARGIN_Y * 2 + CARD_H + 10
 
 
 def make_svg(text_color):
@@ -27,11 +26,14 @@ def make_svg(text_color):
     for i, (emoji, label, color) in enumerate(GAMES):
         y = MARGIN_Y
         begin = f"{i * 0.15:.2f}s"
+        cx = CARD_W / 2
+        cy = CARD_H / 2
         parts.append(
             f'<g transform="translate({x},{y})">'
-            f'<animateTransform attributeName="transform" type="translate" additive="sum" '
-            f'values="0,0; 0,-{BOUNCE}; 0,0" dur="1.8s" begin="{begin}" repeatCount="indefinite" '
-            f'calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" keyTimes="0;0.5;1"/>'
+            f'<animateTransform attributeName="transform" type="rotate" additive="sum" '
+            f'values="-6 {cx} {cy}; 6 {cx} {cy}; -6 {cx} {cy}" dur="2.2s" begin="{begin}" '
+            f'repeatCount="indefinite" calcMode="spline" '
+            f'keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" keyTimes="0;0.5;1"/>'
             f'<rect width="{CARD_W}" height="{CARD_H}" rx="14" fill="{color}" stroke="#FF6B1A" stroke-width="1.2"/>'
             f'<text x="{CARD_W / 2}" y="44" text-anchor="middle" font-size="34">{emoji}</text>'
             f'<text x="{CARD_W / 2}" y="76" text-anchor="middle" '
