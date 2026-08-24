@@ -52,6 +52,7 @@
 - 🕹️ Always leveling up my skills
 - 🌋 Matte black, crimson & cobalt — my kind of chaos
 - ⚔️ Currently grinding new projects — stay tuned
+- 💕 My girlfriend is [swemone0-cyber](https://github.com/swemone0-cyber)
 
 ---
 
